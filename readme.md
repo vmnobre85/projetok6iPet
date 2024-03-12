@@ -1,4 +1,4 @@
-![Logo Unifor](pictures/cabecalho.jpg) 
+![Logo Unifor](cabecalho.jpg) 
 
 # Integração de Teste de Carga K6 para Avaliação de Desempenho do Aplicativo iPet
 
