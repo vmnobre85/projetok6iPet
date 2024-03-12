@@ -44,7 +44,7 @@ Para alcançar os requisitos funcionais mencionados acima, seguiremos estas etap
    - Configurar alertas no Grafana para notificar sobre desvios nas métricas de desempenho.
 
 5. **Execução Automatizada:**
-   - Configurar a execução automatizada dos testes de carga em intervalos regulares usando ferramentas como cron ou Jenkins.
+   - Configurar a execução automatizada dos testes de carga em intervalos regulares usando ferramentas de integração contínua.
 
 6. **Geração de Relatórios:**
    - Gerar relatórios detalhados dos resultados dos testes de carga, incluindo gráficos e análises, utilizando recursos integrados do K6 ou ferramentas externas.
